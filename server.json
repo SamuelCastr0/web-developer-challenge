@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://www.malibumakos.com/wp-content/uploads/2018/07/ocean-waves-1000x675.jpg",
+      "userName": "Manuella Oliveira",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "id": 2,
+      "image": "https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1142330016.jpg",
+      "userName": "Anderson Silva",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
+  ]
+}
